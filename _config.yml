@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Your Name / Site Title"
+title                    : "Taisiya Sikorskaya"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Taisiya Sikorskaya"
 description              : &description "personal description"
-url                      : https://staisiya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.sikorskaya.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "staisiya/staisiya.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Taisiya Sikorskaya"
+  avatar           : profile.png
+  bio              : "PhD Candidate in Finance at London Business School"
+  location         : "London, UK"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            :
+  pubmed           :
+  googlescholar    :
+  email            : "tsikorskaya@london.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/taisiya-s-8aaa9572/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
