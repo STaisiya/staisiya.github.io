@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching Assistance (London Business School)"
+title: "Teaching Assistant (London Business School)"
 permalink: /teaching/
 author_profile: true
 ---
