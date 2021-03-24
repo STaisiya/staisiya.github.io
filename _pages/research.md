@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /research/
 title: "Working Papers"
 author_profile: true
