@@ -1,11 +1,10 @@
 ---
-layout: archive
 permalink: /research/
 title: "Working Papers"
 author_profile: true
 toc: true
 ---
-### 1. Benchmarking Intensity (with A. Pavlova)
+**1. Benchmarking Intensity** (with A. Pavlova)
 
 *Presented at: ASSA Meetings 2021, European Winter Finance Conference, Finance Seminar at London Business School, Midwest Finance Association, University of Bath, Vienna Graduate School of Finance.*  
 *Scheduled at: Adam Smith Workshop, NBER Behavioral Finance, SFS Cavalcade, WSIR.*
@@ -15,7 +14,7 @@ A fund manager evaluated relative to a benchmark index optimally invests a fract
 Available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689959).
 
 
-### 2. Two APs are Better Than One: ETF Mispricing and Primary Market Participations (with E. Gorbatikov)
+**2. Two APs are Better Than One: ETF Mispricing and Primary Market Participations** (with E. Gorbatikov)
 
 
 <!-- {% if author.googlescholar %}
