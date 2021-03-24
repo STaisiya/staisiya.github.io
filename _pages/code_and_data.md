@@ -5,4 +5,4 @@ permalink: /code/
 author_profile: true
 ---
 
-If you are interested in the BMI measure, please contact me directly via [email](mailto:tsikorskaya@london.edu).
+If you are interested in the Benchmarking Intensity (BMI) measure, please contact me directly via [email](mailto:tsikorskaya@london.edu).
