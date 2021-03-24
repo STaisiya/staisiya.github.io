@@ -5,4 +5,4 @@ permalink: /code/
 author_profile: true
 ---
 
-Coming soon.
+If you are interested in the BMI measure, please contact me directly via [email](tsikorskaya@london.edu).

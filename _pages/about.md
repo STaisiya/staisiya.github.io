@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "PhD Candidate at London Business School"
 author_profile: true
 redirect_from:
   - /about/
