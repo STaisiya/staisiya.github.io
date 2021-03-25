@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "TaisiyaS"
+    tracking_id          : "G-8BHSWHWRN2"
 
 
 # Site Author
