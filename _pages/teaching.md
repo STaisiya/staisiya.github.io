@@ -7,11 +7,11 @@ author_profile: true
 
 **1. Empirical Asset Pricing (PhD)**, Prof. Svetlana Bryzgalova, 2019-2021
 
-**2. Finance I (MBA)**, Prof. Anna Pavlova, 2018-2020
+**2. Finance II (MBA)**, Prof. Howard Kung, 2020-2021
 
-**3. Advanced Corporate Finance (MBA)**, Prof. Howard Kung, 2020-2021
+**3. Personal Finance (Masters)**, Prof. Francisco Gomes, 2019-2021
 
-**4. Personal Finance (Masters)**, Prof. Francisco Gomes, 2019-2021
+**4. Finance I (MBA)**, Prof. Anna Pavlova, 2018-2020
 
 **5. Project Appraisal and Corporate Valuation (Sberbank Executive Education Program)**, Prof. Anna Pavlova, 2018-2020
 
