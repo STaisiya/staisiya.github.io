@@ -5,7 +5,9 @@ title: "Research"
 author_profile: true
 ---
 
-**1. [Benchmarking Intensity](http://staisiya.github.io/files/Pavlova_and_Sikorskaya_2021.pdf)** (with A. Pavlova)
+## Working Papers
+
+**[Benchmarking Intensity](http://staisiya.github.io/files/Pavlova_and_Sikorskaya_2021.pdf)** (with A. Pavlova)
 
 *Presented at: ASSA Meetings 2021, European Winter Finance Conference, Finance Seminar at London Business School, Midwest Finance Association, University of Bath, Vienna Graduate School of Finance.*  
 *Scheduled at: Adam Smith Workshop, INSEAD Finance Symposium, NBER Behavioral Finance, SFS Cavalcade, WSIR.*
@@ -14,8 +16,9 @@ A fund manager evaluated relative to a benchmark index optimally invests a fract
 
 Also available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689959).
 
+## Work in Progress
 
-**2. Two APs are Better Than One: ETF Mispricing and Primary Market Participation** (with E. Gorbatikov)
+**Two APs are Better Than One: ETF Mispricing and Primary Market Participation** (with E. Gorbatikov)
 
 
 <!-- {% if author.googlescholar %}
