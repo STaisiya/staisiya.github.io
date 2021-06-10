@@ -9,10 +9,10 @@ author_profile: true
 
 **[Benchmarking Intensity](http://staisiya.github.io/files/Pavlova_and_Sikorskaya_2021.pdf)** (with A. Pavlova)
 
-*Presented at: Adam Smith Workshop, ASSA Meetings 2021, European Winter Finance Conference, Finance Seminar at London Business School, Midwest Finance Association, NBER Behavioral Finance, University of Bath, Vienna Graduate School of Finance, World Symposium on Investment Research.*  
-*Scheduled at: EFA 2021, INSEAD Finance Symposium, SFS Cavalcade North America 2021.*
+*Presented at: Adam Smith Workshop, ASSA Meetings, European Winter Finance Conference, Finance Seminar at London Business School, INSEAD Finance Symposium, Midwest Finance Association, NBER Behavioral Finance, SFS Cavalcade North America, University of Bath, Vienna Graduate School of Finance, and World Symposium on Investment Research.*  
+*Scheduled at: AFA 2022, EFA 2021.*
 
-A fund manager evaluated relative to a benchmark index optimally invests a fraction of the fund's assets under management (AUM) in her benchmark, and such demand is inelastic. Using a dataset of 34 U.S. equity indices, we construct a stock-level measure of benchmarking intensity (BMI), which captures the inelastic component of fund managers' demand. The BMI of a stock is computed as the cumulative weight of the stock in all benchmarks, weighted by AUM following each benchmark. Exploiting a variation in the BMIs of stocks that transition between the Russell 1000 and Russell 2000 indices, we show that the change in BMI resulting from an index reconstitution is positively related to the size of the index effect. Our measure allows us to compute the price elasticity of demand more accurately than in the literature. Furthermore, using fund holdings around the index cutoff, we present evidence of inelastic demand of active managers for stocks in their benchmarks. Finally, we confirm the prediction of our theory that stocks with higher BMIs have lower long-run returns.
+Benchmarking incentivizes fund managers to invest a fraction of their funds’ assets in their benchmark indices, and such demand is inelastic. We construct a measure of inelastic demand a stock attracts, benchmarking intensity (BMI), computed as its cumulative weight in all benchmarks, weighted by assets following each benchmark. Exploiting the Russell 1000/2000 cutoff, we show that changes in stocks’ BMIs instrument for changes in ownership of benchmarked investors. The resulting demand elasticities are low. We document that both active and passive fund managers buy additions to their benchmarks and sell deletions. Finally, an increase in BMI lowers future stock returns.
 
 Also available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3689959).
 
