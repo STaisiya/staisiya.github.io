@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-**<a href="http://staisiya.github.io/files/Pavlova_and_Sikorskaya_2021.pdf" style="color: black; text-decoration: underline;">Benchmarking Intensity</a>** (with A. Pavlova). Revise and Resubmit at the *Review of Financial Studies*
+**<a href="http://staisiya.github.io/files/Pavlova_and_Sikorskaya_2021.pdf" style="color: black; text-decoration: underline;">Benchmarking Intensity</a>** (with A. Pavlova). Conditionally Accepted at the *Review of Financial Studies*
 
 Benchmarking incentivizes fund managers to invest a fraction of their funds’ assets in their benchmark indices, and such demand is inelastic. We construct a measure of inelastic demand a stock attracts, benchmarking intensity (BMI), computed as its cumulative weight in all benchmarks, weighted by assets following each benchmark. Exploiting the Russell 1000/2000 cutoff, we show that changes in stocks’ BMIs instrument for changes in ownership of benchmarked investors. The resulting demand elasticities are low. We document that both active and passive fund managers buy additions to their benchmarks and sell deletions. Finally, an increase in BMI lowers future stock returns.
 
