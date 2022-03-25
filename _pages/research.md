@@ -23,7 +23,7 @@ Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations betwee
 
 <br>
 
-**Retail Trading in Options and the Rise of the Big Three Wholesalers** (with S. Bryzgalova and A. Pavlova).
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova).
 
 This paper documents rapid increases in (i) retail investor trading in options and in (ii) payment for order flow (PFOF) for options transactions received by the U.S. retail brokerages. PFOF comes from so-called wholesalers/internalizers -- market makers who execute order flow for a retail brokerage. Exploiting new reporting requirements and transaction-level data, we isolate wholesaler trades and propose a novel measure of retail investor trading in options. We find that retail traders prefer cheaper, weekly options, the average quoted bid-ask spread for which is a whopping 12.3%, and lose money on aggregate. The inflow of retail investors also coincides with an increase in call options left suboptimally unexercised. Market makers (and other arbitrageurs) exploit these mistakes via the so-called "dividend play" trades, producing (virtually) riskless arbitrage profits. Puzzlingly, they forgo 50% of these profits, leaving money on the table for option writers. Our findings suggest that the arbitrageurs behave non-competitively and that the Big Three wholesalers, whose share in PFOF for options surpassed 85%, seem to benefit disproportionately from the growth in retail trading.
 
