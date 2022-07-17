@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I am a PhD Candidate in Finance at London Business School. My current research interests center around Asset Pricing, Financial Intermediaries, and Asset Management.
+
+<a href="http://staisiya.github.io/files/Sikorskaya_CV_Long.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
