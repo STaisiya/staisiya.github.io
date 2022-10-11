@@ -15,21 +15,22 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 ## Working Papers
 
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova).
+
+We document rapid increases in (i) retail trading in options and (ii) payment for order flow (PFOF), received by the U.S. retail brokerages from the so-called wholesalers in exchange for routing orders to them. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.
+
+<sub>*Presentations at: AFA 2023, CCAF Annual Conference 2022, CDI Conference on Derivatives 2022, Chicago Fed, NBER Asset Pricing Spring Meeting 2022, NBER Behavioral Finance Meeting 2022, Finance Seminar at London Business School, Florida International University, Kelley School of Business at Indiana University, London Quant Group, Miami Behavioral Finance Conference, NFA 2022, Queen Mary University of London, Stockholm Business School, Tel Aviv Finance Conference, TMX Group, University of Central Florida, University of Hong Kong, and Virtual Derivatives Workshop.* </sub>
+
+<sub>*Media coverage:* <a href="https://www.bloomberg.com/news/articles/2022-04-27/mom-and-pop-took-a-billion-dollar-bath-trading-pandemic-options" style="color: black; text-decoration: underline;">Bloomberg article</a>, <a href="https://www.bloomberg.com/news/audio/2022-07-07/how-amateurs-lost-billions-on-options-podcast" style="color: black; text-decoration: underline;">Bloomberg What Goes Up podcast</a>, <a href="https://www.risk.net/investing/7954462/its-amateur-hour-how-retail-traders-upended-options-market" style="color: black; text-decoration: underline;">Risk.net</a>. </sub>
+
+
+<br>
+
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).
 
 Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations between a fund's price and its fair value. ETFs have designated brokers, or authorized participants (APs), who have a unique right to create and redeem ETF shares, and who can thus trade on ETF mispricing without risk. Using novel regulatory filings, we provide the first description of the US ETF-AP network. It has a dense core and a sparse periphery, and the observed creation/redemption volumes are highly concentrated. The level of mispricing in a US equity ETF is negatively related to the fund's primary market diversity, especially during times of high market volatility. Funds that share more APs exhibit stronger mispricing comovement. We theoretically show that diverse primary markets help mitigate the effect of shocks to AP-specific arbitrage costs. We highlight the importance of AP balance sheet usage costs in ETF markets by exploiting the Federal Reserve's purchases of bond ETFs in 2020.
 
 <sub>*Presentations at: AFA 2022, Finance Seminar at London Business School, FMA 2021, Microstructure Exchange 2022, NFA 2021, and YSFC 2022.* </sub>
-
-<br>
-
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova).
-
-We document rapid increases in (i) retail trading in options and (ii) payment for order flow, received by the U.S. retail brokerages from the so-called wholesalers in exchange for routing orders to them. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel proxy for retail options trading. Often cash-constrained, retail investors prefer cheaper, lottery-like weekly options, with the average bid-ask spread of a whopping 12.6%. They lose money on average and participate in frenzies. The inflow of retail investors also coincides with an increase in call options left suboptimally unexercised. Arbitrageurs exploit these investor mistakes via so-called “dividend play” trades, producing (virtually) riskless arbitrage profits. Puzzlingly, they forgo 50% of these profits, leaving money on the table for option writers.
-
-<sub>*Presentations at: AFA 2023, CCAF Annual Conference 2022, CDI Conference on Derivatives 2022, NBER Asset Pricing Spring Meeting 2022, Finance Seminar at London Business School, Kelley School of Business at Indiana University, NFA 2022, Queen Mary University of London, Stockholm Business School, University of Central Florida, University of Hong Kong, and Virtual Derivatives Workshop.* </sub>
-
-<sub>*Media coverage:* <a href="https://www.bloomberg.com/news/articles/2022-04-27/mom-and-pop-took-a-billion-dollar-bath-trading-pandemic-options" style="color: black; text-decoration: underline;">Bloomberg article</a>, <a href="https://www.bloomberg.com/news/audio/2022-07-07/how-amateurs-lost-billions-on-options-podcast" style="color: black; text-decoration: underline;">Bloomberg What Goes Up podcast</a>. </sub>
 
 
 ## Work in Progress
