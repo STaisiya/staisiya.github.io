@@ -15,7 +15,8 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 ## Working Papers
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova).
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
+Conditionally accepted at *<a style="color: black; text-decoration: underline;">The Journal of Finance </a>*
 
 We document rapid increases in (i) retail trading in options and (ii) payment for order flow (PFOF), received by the U.S. retail brokerages from the so-called wholesalers in exchange for routing orders to them. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.
 
@@ -32,6 +33,12 @@ Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations betwee
 
 <sub>*Presentations at: AFA 2022, Finance Seminar at London Business School, FMA 2021, Microstructure Exchange 2022, NFA 2021, and YSFC 2022.* </sub>
 
+
+<br>
+
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise</a>** (with S. Bryzgalova and A. Pavlova).
+
+In the past few years, the U.S. options markets experienced a major inflow of retail investors, who are young and tech-savvy, yet largely inexperienced. We show that this trend coincides with an increase in call option contracts left suboptimally unexercised. Market makers (and other arbitrageurs) can benefit from these mistakes via so-called ‘dividend play’ trades, which produce (virtually) riskless arbitrage profits. Exploiting transaction-level data and a new reporting requirement, we accurately identify dividend play trades and document rising profits from this strategy during the retail investor trading boom. Puzzlingly, however, arbitrageurs leave money on the table, forgoing about 50% of potential profits. We explore possible explanations for this puzzling behavior.
 
 ## Work in Progress
 
