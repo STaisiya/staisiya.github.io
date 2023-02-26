@@ -15,7 +15,7 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 ## Working Papers
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
 Conditionally accepted at *<a style="color: black; text-decoration: underline;">The Journal of Finance </a>*
 
 We document rapid increases in (i) retail trading in options and (ii) payment for order flow (PFOF), received by the U.S. retail brokerages from the so-called wholesalers in exchange for routing orders to them. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.
