@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published Papers
 
-**<a href="http://staisiya.github.io/files/Pavlova_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Benchmarking Intensity</a>** (with A. Pavlova). Forthcoming in *<a href="https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhac055/6665907" style="color: black; text-decoration: underline;">The Review of Financial Studies </a>*
+**<a href="http://staisiya.github.io/files/Pavlova_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Benchmarking Intensity</a>** (with A. Pavlova). *<a href="https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhac055/6665907" style="color: black;">The Review of Financial Studies, 36(3), 2023, pp. 859–903.</a>* Editor's Choice.
 
 Benchmarking incentivizes fund managers to invest a fraction of their funds’ assets in their benchmark indices, and such demand is inelastic. We construct a measure of inelastic demand a stock attracts, benchmarking intensity (BMI), computed as its cumulative weight in all benchmarks, weighted by assets following each benchmark. Exploiting the Russell 1000/2000 cutoff, we show that changes in stocks’ BMIs instrument for changes in ownership of benchmarked investors. The resulting demand elasticities are low. We document that both active and passive fund managers buy additions to their benchmarks and sell deletions. Finally, an increase in BMI lowers future stock returns.
 
@@ -16,13 +16,13 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 ## Working Papers
 
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
-Conditionally accepted at *<a style="color: black; text-decoration: underline;">The Journal of Finance </a>*
+Conditionally accepted at *<a style="color: black; text-decoration: underline;">The Journal of Finance</a>*.
 
 We document rapid increases in (i) retail trading in options and (ii) payment for order flow (PFOF), received by the U.S. retail brokerages from the so-called wholesalers in exchange for routing orders to them. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.
 
 <sub>*Presentations at: AFA 2023, CCAF Annual Conference 2022, CDI Conference on Derivatives 2022, Chicago Fed, NBER Asset Pricing Spring Meeting 2022, NBER Behavioral Finance Meeting 2022, Finance Seminar at London Business School, Florida International University, Kelley School of Business at Indiana University, London Quant Group, Miami Behavioral Finance Conference, NFA 2022, Queen Mary University of London, Stockholm Business School, Tel Aviv Finance Conference, TMX Group, University of Central Florida, University of Hong Kong, and Virtual Derivatives Workshop.* </sub>
 
-<sub>*Media coverage:* <a href="https://www.bloomberg.com/news/articles/2022-04-27/mom-and-pop-took-a-billion-dollar-bath-trading-pandemic-options" style="color: black; text-decoration: underline;">Bloomberg article</a>, <a href="https://www.bloomberg.com/news/audio/2022-07-07/how-amateurs-lost-billions-on-options-podcast" style="color: black; text-decoration: underline;">Bloomberg What Goes Up podcast</a>, <a href="https://www.risk.net/investing/7954462/its-amateur-hour-how-retail-traders-upended-options-market" style="color: black; text-decoration: underline;">Risk.net</a>. </sub>
+<sub>*Media coverage:* <a href="https://www.bloomberg.com/news/articles/2022-04-27/mom-and-pop-took-a-billion-dollar-bath-trading-pandemic-options" style="color: black; text-decoration: underline;">Bloomberg</a>, <a href="https://www.bloomberg.com/news/audio/2022-07-07/how-amateurs-lost-billions-on-options-podcast" style="color: black; text-decoration: underline;">Bloomberg What Goes Up podcast</a>, <a href="https://www.economist.com/graphic-detail/2023/03/07/retail-investors-are-losing-billions-buying-stock-options" style="color: black; text-decoration: underline;">The Economist</a>, <a href="https://www.risk.net/investing/7954462/its-amateur-hour-how-retail-traders-upended-options-market" style="color: black; text-decoration: underline;">Risk.net</a>. </sub>
 
 
 <br>
