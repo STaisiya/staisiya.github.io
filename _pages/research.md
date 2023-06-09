@@ -11,9 +11,11 @@ author_profile: true
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
 Forthcoming in *<a style="color: black; text-decoration: underline;">The Journal of Finance</a>*, solicited.
 
-We document rapid increases in (i) retail trading in options and (ii) payment for order flow (PFOF), received by the U.S. retail brokerages from the so-called wholesalers in exchange for routing orders to them. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.
+We document rapid increases in (i) retail trading in options and (ii) payment for order flow (PFOF), received by the U.S. retail brokerages from the so-called wholesalers in exchange for routing orders to them. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.  
 
-<sub>*Presentations at: AFA 2023, CCAF Annual Conference 2022, CDI Conference on Derivatives 2022, Chicago Fed, NBER Asset Pricing Spring Meeting 2022, NBER Behavioral Finance Meeting 2022, Finance Seminar at London Business School, Florida International University, Kelley School of Business at Indiana University, London Quant Group, Miami Behavioral Finance Conference, NFA 2022, Queen Mary University of London, Stockholm Business School, Tel Aviv Finance Conference, TMX Group, University of Central Florida, University of Hong Kong, and Virtual Derivatives Workshop.* </sub>
+
+<sub>*Presentations at: AFA 2023, CCAF Annual Conference 2022, CDI Conference on Derivatives 2022, Chicago Fed, NBER Asset Pricing Spring Meeting 2022, NBER Behavioral Finance Meeting 2022, Finance Seminar at London Business School, Florida International University, Kelley School of Business at Indiana University, London Quant Group, Miami Behavioral Finance Conference, NFA 2022, Queen Mary University of London, SEC, Stockholm Business School, Tel Aviv Finance Conference, TMX Group, University of Central Florida, University of Hong Kong, Vanguard seminar, and Virtual Derivatives Workshop.* </sub>  
+
 
 <sub>*Media coverage:* <a href="https://www.bloomberg.com/news/articles/2022-04-27/mom-and-pop-took-a-billion-dollar-bath-trading-pandemic-options" style="color: black; text-decoration: underline;">Bloomberg</a>, <a href="https://www.bloomberg.com/news/audio/2022-07-07/how-amateurs-lost-billions-on-options-podcast" style="color: black; text-decoration: underline;">Bloomberg What Goes Up podcast</a>, <a href="https://www.economist.com/graphic-detail/2023/03/07/retail-investors-are-losing-billions-buying-stock-options" style="color: black; text-decoration: underline;">The Economist</a>, <a href="https://www.risk.net/investing/7954462/its-amateur-hour-how-retail-traders-upended-options-market" style="color: black; text-decoration: underline;">Risk.net</a>. </sub>
 
@@ -23,9 +25,18 @@ We document rapid increases in (i) retail trading in options and (ii) payment fo
 
 Benchmarking incentivizes fund managers to invest a fraction of their funds’ assets in their benchmark indices, and such demand is inelastic. We construct a measure of inelastic demand a stock attracts, benchmarking intensity (BMI), computed as its cumulative weight in all benchmarks, weighted by assets following each benchmark. Exploiting the Russell 1000/2000 cutoff, we show that changes in stocks’ BMIs instrument for changes in ownership of benchmarked investors. The resulting demand elasticities are low. We document that both active and passive fund managers buy additions to their benchmarks and sell deletions. Finally, an increase in BMI lowers future stock returns.
 
-<sub>*Presentations at: Adam Smith Workshop, AFA 2022, ASSA Meetings, EFA 2021, European Winter Finance Conference, Finance Seminar at London Business School, INSEAD Finance Symposium, the Desautels Faculty of Management at McGill University, Midwest Finance Association, NBER Behavioral Finance, SFS Cavalcade North America, University of Bath, Vienna Graduate School of Finance, and World Symposium on Investment Research.* </sub>
+<sub>*Presentations at: Adam Smith Workshop, AFA 2022, ASSA Meetings, EFA 2021, European Winter Finance Conference, Finance Seminar at London Business School, INSEAD Finance Symposium, the Desautels Faculty of Management at McGill University, Midwest Finance Association, NBER Behavioral Finance, Q Group Spring Seminar 2023, SFS Cavalcade North America, University of Bath, Vienna Graduate School of Finance, and World Symposium on Investment Research.* </sub>
 
 ## Working Papers
+
+**<a href="" style="color: black; text-decoration: underline;">When Less is More: Effects of Benchmarking on Securities Lending</a>** 
+
+Securities lending is a lucrative business for investment managers. Yet, what managers hold, and hence can lend, is dictated by their benchmark indexes. This paper explores how benchmarking affects equilibrium in the securities lending market. In a model with benchmarked fund managers who supply their risky holdings for lending, benchmarking affects both asset price and lending supply. Simple intuition suggests that a larger supply should alleviate short-selling constraints. However, my model shows that benchmarking may increase lending fees by attracting higher shorting demand. I test predictions of my model using two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, in which there are exogenous shocks to how much capital is benchmarked against stocks. I find that, contrary to the intuition, it becomes costlier to short stocks whose benchmarking intensities increase. I use novel regulatory filings to suggest that lending limits are driving a wedge between the demand and supply effects of benchmarking.
+
+<sub>*Presentations at: Dauphine Finance PhD Workshop, Finance Seminar at London Business School, Junior Academic Research Seminar in Finance, NFA 2023, TADC 2023, USC Marshall PhD Conference in Finance.* </sub>
+
+
+<br>
 
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).
 
@@ -39,6 +50,9 @@ Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations betwee
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise</a>** (with S. Bryzgalova and A. Pavlova).
 
 The recent retail trading boom in the U.S. options market, driven by an inflow of inexperienced investors, coincides with an increase in call option contracts left suboptimally unexercised.  Arbitrageurs exploit these investor mistakes via so-called dividend play trades, which produce (virtually) riskless profits.  Using transaction-level data and a new reporting requirement, we identify dividend play trades and document rising profits from this strategy.  Puzzlingly, however, arbitrageurs leave 50% of potential profits on the table. Few arbitrageurs exploit each contract, with a median of only one. Finally, our paper details how market participants circumvent a regulation devised to curtail dividend play.
+
+<sub>*Presentations at: AFA 2024, Finance Seminar at London Business School, Women in Microstructure Meeting 2023.* </sub>
+
 
 ## Work in Progress
 
