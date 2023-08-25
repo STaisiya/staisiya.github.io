@@ -11,7 +11,7 @@ author_profile: true
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
 Forthcoming in *<a style="color: black; text-decoration: underline;">The Journal of Finance</a>*, solicited.
 
-We document rapid increases in (i) retail trading in options and (ii) payment for order flow (PFOF), received by the U.S. retail brokerages from the so-called wholesalers in exchange for routing orders to them. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.  
+We document a rapid increase in retail trading in options in the U.S.  Facilitated by payment for order flow (PFOF) from wholesalers executing retail orders, retail trading recently reached over 48% of the total market volume. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.  
 
 
 <sub>*Presentations at: AFA 2023, CCAF Annual Conference 2022, CDI Conference on Derivatives 2022, Chicago Fed, NBER Asset Pricing Spring Meeting 2022, NBER Behavioral Finance Meeting 2022, Finance Seminar at London Business School, Florida International University, Kelley School of Business at Indiana University, London Quant Group, Miami Behavioral Finance Conference, NFA 2022, Queen Mary University of London, SEC, Stockholm Business School, Tel Aviv Finance Conference, TMX Group, University of Central Florida, University of Hong Kong, Vanguard seminar, and Virtual Derivatives Workshop.* </sub>  
@@ -29,12 +29,19 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 ## Working Papers
 
-**<a href="" style="color: black; text-decoration: underline;">When Less is More: Effects of Benchmarking on Securities Lending</a>** 
+**<a href="" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending and Short-Selling Constraints (job market paper)</a>**
 
-Securities lending is a lucrative business for investment managers. Yet, what managers hold, and hence can lend, is dictated by their benchmark indexes. This paper explores how benchmarking affects equilibrium in the securities lending market. In a model with benchmarked fund managers who supply their risky holdings for lending, benchmarking affects both asset price and lending supply. Simple intuition suggests that a larger supply should alleviate short-selling constraints. However, my model shows that benchmarking may increase lending fees by attracting higher shorting demand. I test predictions of my model using two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, in which there are exogenous shocks to how much capital is benchmarked against stocks. I find that, contrary to the intuition, it becomes costlier to short stocks whose benchmarking intensities increase. I use novel regulatory filings to suggest that lending limits are driving a wedge between the demand and supply effects of benchmarking.
+Institutional ownership is thought to facilitate short-selling. Indeed, short sellers typically borrow from the holdings of institutions. Yet, institutional demand, and hence lending supply, is endogenous. This paper isolates changes in this demand due to investment mandates (benchmark indexes) to shed new light on the role of institutions in lending markets. In a model with benchmarked fund managers who supply their risky holdings for lending, the equilibrium price and lending supply are both higher for the benchmark asset. Larger supply alleviates short-selling constraints while higher shorting demand (due to inflated price) exacerbates them. Two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, confirm that stocks with more institutional capital benchmarked against them have larger lending supply {and} demand. Ultimately, they are {costlier} to short. In both theory and data, results are driven by incomplete pass-through from institutional holdings to lending supply.
 
 <sub>*Presentations at: ASSA Meetings 2024, Dauphine Finance PhD Workshop, Finance Seminar at London Business School, Junior Academic Research Seminar in Finance, NFA 2023, SAFE Market Microstructure Conference, TADC 2023, USC Marshall PhD Conference in Finance.* </sub>
 
+<br>
+
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*.
+
+The recent retail trading boom in the U.S. options market, driven by an inflow of inexperienced investors, coincides with an increase in call option contracts left suboptimally unexercised.  Arbitrageurs exploit these investor mistakes via so-called dividend play trades, which produce (virtually) riskless profits.  Using transaction-level data and a new reporting requirement, we identify dividend play trades and document rising profits from this strategy.  Puzzlingly, however, arbitrageurs leave 50% of potential profits on the table. Few arbitrageurs exploit each contract, with a median of only one. Finally, our paper details how market participants circumvent a regulation devised to curtail dividend play.
+
+<sub>*Presentations at: AFA 2024, Finance Seminar at London Business School, Women in Microstructure Meeting 2023.* </sub>
 
 <br>
 
@@ -45,13 +52,6 @@ Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations betwee
 <sub>*Presentations at: AFA 2022, Finance Seminar at London Business School, FMA 2021, Microstructure Exchange 2022, NFA 2021, and YSFC 2022.* </sub>
 
 
-<br>
-
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise</a>** (with S. Bryzgalova and A. Pavlova).
-
-The recent retail trading boom in the U.S. options market, driven by an inflow of inexperienced investors, coincides with an increase in call option contracts left suboptimally unexercised.  Arbitrageurs exploit these investor mistakes via so-called dividend play trades, which produce (virtually) riskless profits.  Using transaction-level data and a new reporting requirement, we identify dividend play trades and document rising profits from this strategy.  Puzzlingly, however, arbitrageurs leave 50% of potential profits on the table. Few arbitrageurs exploit each contract, with a median of only one. Finally, our paper details how market participants circumvent a regulation devised to curtail dividend play.
-
-<sub>*Presentations at: AFA 2024, Finance Seminar at London Business School, Women in Microstructure Meeting 2023.* </sub>
 
 
 ## Work in Progress
