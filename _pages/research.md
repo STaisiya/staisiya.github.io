@@ -5,8 +5,16 @@ title: "Research"
 author_profile: true
 ---
 
-## Published Papers
+## Job Market Paper
 
+**<a href="" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending and Short-Selling Constraints</a>** 
+
+Institutional ownership is thought to facilitate short-selling. Indeed, short sellers typically borrow from the holdings of institutions. Yet, institutional demand, and hence lending supply, is endogenous. This paper isolates changes in this demand due to investment mandates (benchmark indexes) to shed new light on the role of institutions in lending markets. In a model with benchmarked fund managers who supply their risky holdings for lending, the equilibrium price and lending supply are both higher for the benchmark asset. Larger supply alleviates short-selling constraints while higher shorting demand (due to inflated price) exacerbates them. Two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, confirm that stocks with more institutional capital benchmarked against them have larger lending supply and demand. Ultimately, they are costlier to short. In both theory and data, results are driven by incomplete pass-through from institutional holdings to lending supply.
+
+<sub>*Presentations at: ASSA Meetings 2024, Dauphine Finance PhD Workshop, Finance Seminar at London Business School, HEC PhD Workshop on Incentives in Finance, Junior Academic Research Seminar in Finance, NFA 2023, SAFE Market Microstructure Conference, TADC 2023, USC Marshall PhD Conference in Finance.* </sub>
+
+
+## Published Papers
 
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
 Forthcoming in *<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13285"  style="color: black; text-decoration: underline;">The Journal of Finance</a>*, solicited.
@@ -28,14 +36,6 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 <sub>*Presentations at: Adam Smith Workshop, AFA 2022, ASSA Meetings, EFA 2021, European Winter Finance Conference, Finance Seminar at London Business School, INSEAD Finance Symposium, the Desautels Faculty of Management at McGill University, Midwest Finance Association, NBER Behavioral Finance, Q Group Spring Seminar 2023, SFS Cavalcade North America, University of Bath, Vienna Graduate School of Finance, and World Symposium on Investment Research.* </sub>
 
 ## Working Papers
-
-**<a href="" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending and Short-Selling Constraints</a>** (job market paper)
-
-Institutional ownership is thought to facilitate short-selling. Indeed, short sellers typically borrow from the holdings of institutions. Yet, institutional demand, and hence lending supply, is endogenous. This paper isolates changes in this demand due to investment mandates (benchmark indexes) to shed new light on the role of institutions in lending markets. In a model with benchmarked fund managers who supply their risky holdings for lending, the equilibrium price and lending supply are both higher for the benchmark asset. Larger supply alleviates short-selling constraints while higher shorting demand (due to inflated price) exacerbates them. Two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, confirm that stocks with more institutional capital benchmarked against them have larger lending supply and demand. Ultimately, they are costlier to short. In both theory and data, results are driven by incomplete pass-through from institutional holdings to lending supply.
-
-<sub>*Presentations at: ASSA Meetings 2024, Dauphine Finance PhD Workshop, Finance Seminar at London Business School, HEC PhD Workshop on Incentives in Finance, Junior Academic Research Seminar in Finance, NFA 2023, SAFE Market Microstructure Conference, TADC 2023, USC Marshall PhD Conference in Finance.* </sub>
-
-<br>
 
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*.
 
