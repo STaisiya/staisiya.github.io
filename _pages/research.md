@@ -9,7 +9,7 @@ author_profile: true
 
 
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
-Forthcoming in *<a style="color: black; text-decoration: underline;">The Journal of Finance</a>*, solicited.
+Forthcoming in *<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13285"  style="color: black; text-decoration: underline;">The Journal of Finance</a>*, solicited.
 
 We document a rapid increase in retail trading in options in the U.S.  Facilitated by payment for order flow (PFOF) from wholesalers executing retail orders, retail trading recently reached over 60% of the total market volume. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.  
 
