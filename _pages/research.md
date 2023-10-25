@@ -37,7 +37,7 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 ## Working Papers
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title ``Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
 
 We propose a model in which arbitrageurs act strategically in markets with entry costs. In a repeated game, arbitrageurs choose to specialize in some markets, which leads to the highest combined profits. We present  evidence consistent with our theory from the options market, in which suboptimally unexercised options create arbitrage opportunities for intermediaries. Using transaction-level data, we identify the corresponding arbitrage trades. Consistent with the model, only 57% of these opportunities attract entry by arbitrageurs.  Of those that do, 50% attract only one arbitrageur. Finally, our paper details how market participants circumvent a regulation devised to curtail this arbitrage strategy. 
 
