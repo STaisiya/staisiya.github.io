@@ -7,7 +7,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**<a href="" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>** 
+**<a href="" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
 
 Institutional ownership is thought to facilitate short-selling. Indeed, short sellers typically borrow from the holdings of institutions. Yet, institutional demand, and hence lending supply, is endogenous. This paper isolates changes in this demand due to investment mandates (benchmark indexes) to shed new light on the role of institutions in lending markets. In a model with benchmarked fund managers who supply their risky holdings for lending, the equilibrium price and lending supply are both higher for the benchmark asset. Larger supply alleviates short-selling constraints while higher shorting demand (due to inflated price) exacerbates them. Two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, confirm that stocks with more institutional capital benchmarked against them have larger lending supply and demand. Ultimately, they are costlier to short. In both theory and data, results are driven by incomplete pass-through from institutional holdings to lending supply.
 
@@ -17,7 +17,7 @@ Institutional ownership is thought to facilitate short-selling. Indeed, short se
 ## Published Papers
 
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
-Forthcoming in *<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13285"  style="color: black; text-decoration: underline;">The Journal of Finance</a>*, solicited.
+*<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13285"  style="color: black; text-decoration: underline;">The Journal of Finance, 78(6), 2023, pp. 3465-3514.</a>*
 
 We document a rapid increase in retail trading in options in the U.S.  Facilitated by payment for order flow (PFOF) from wholesalers executing retail orders, retail trading recently reached over 60% of the total market volume. Nearly 90% of PFOF comes from three wholesalers. Exploiting new flags in transaction-level data, we isolate wholesaler trades and build a novel measure of retail options trading. Our measure comoves with equity-based retail activity proxies and drops significantly during U.S. brokerage platform outages and trading restrictions. Retail investors prefer cheaper, weekly options, with the average bid-ask spread of a whopping 12.6%, and lose money on average.  
 
@@ -39,7 +39,7 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
 
-We propose a model in which arbitrageurs act strategically in markets with entry costs. In a repeated game, arbitrageurs choose to specialize in some markets, which leads to the highest combined profits. We present  evidence consistent with our theory from the options market, in which suboptimally unexercised options create arbitrage opportunities for intermediaries. Using transaction-level data, we identify the corresponding arbitrage trades. Consistent with the model, only 57% of these opportunities attract entry by arbitrageurs.  Of those that do, 50% attract only one arbitrageur. Finally, our paper details how market participants circumvent a regulation devised to curtail this arbitrage strategy. 
+We propose a model in which arbitrageurs act strategically in markets with entry costs. In a repeated game, arbitrageurs choose to specialize in some markets, which leads to the highest combined profits. We present  evidence consistent with our theory from the options market, in which suboptimally unexercised options create arbitrage opportunities for intermediaries. Using transaction-level data, we identify the corresponding arbitrage trades. Consistent with the model, only 57% of these opportunities attract entry by arbitrageurs.  Of those that do, 50% attract only one arbitrageur. Finally, our paper details how market participants circumvent a regulation devised to curtail this arbitrage strategy.
 
 <sub>*Presentations at: AFA 2024, Bayes Business School, Finance Seminar at London Business School, Indiana University, NBER Asset Pricing Fall Meeting 2023, Stockholm Business School, Women in Microstructure Meeting 2023.* </sub>
 
