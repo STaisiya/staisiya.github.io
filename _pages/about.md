@@ -8,10 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Finance at London Business School. My research explores the impact of institutional investors on asset prices, retail trading in options, and limits of arbitrage. I have published in the Journal of Finance and the Review of Financial Studies, and my work has been cited in international media, including Bloomberg and The Economist. Prior to starting my PhD at London Business School, I worked in asset management in Switzerland and the UK. 
+I am a PhD Candidate in Finance at London Business School. My research explores the impact of institutional investors on asset prices, retail trading in options, and limits to arbitrage. I have published in the Journal of Finance and the Review of Financial Studies, and my work has been cited in international media, including Bloomberg and The Economist. Prior to starting my PhD at London Business School, I worked in asset management in Switzerland and the UK.
 
 Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Options.
 
 **I am on the 2023/2024 academic job market.**
 
 <a href="http://staisiya.github.io/files/Sikorskaya_CV_Long_nov23.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
+
+
+<br>
+
+## Job Market Paper
+
+**<a href="" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
+
+<br>
+## Published Papers
+
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). Forthcoming in *<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13285"  style="color: black; text-decoration: underline;">The Journal of Finance</a>*, solicited.
+
+**<a href="http://staisiya.github.io/files/Pavlova_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Benchmarking Intensity</a>** (with A. Pavlova). *<a href="https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhac055/6665907" style="color: black;">The Review of Financial Studies, 36(3), 2023, pp. 859–903.</a>* Editor's Choice.
+
+<br>
+
+## Working Papers
+
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
+
+**<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).
