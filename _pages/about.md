@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Candidate in Finance at London Business School. My research explores the impact of institutional investors on asset prices, retail trading in options, and limits to arbitrage. I have published in the Journal of Finance and the Review of Financial Studies, and my work has been cited in international media, including Bloomberg and The Economist. Prior to starting my PhD at London Business School, I worked in asset management in Switzerland and the UK.
 
-Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Options.
+Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail Trading.
 
 **I am on the 2023/2024 academic job market.**
 
