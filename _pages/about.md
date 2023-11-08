@@ -21,7 +21,7 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 
 ## Job Market Paper
 
-**<a href="" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
+**<a href="http://staisiya.github.io/files/Sikorskaya_JMP_2023.pdf" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
 
 <br>
 ## Published Papers
