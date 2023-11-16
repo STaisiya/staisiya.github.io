@@ -11,10 +11,10 @@ author_profile: true
 
 Institutional ownership is thought to facilitate short-selling, as short sellers typically borrow from the holdings of institutions. Yet, institutional demand, and hence lending supply, is endogenous. This paper isolates changes in this demand due to investment mandates (benchmark indexes) to shed new light on the role of institutions in lending markets. In a model with benchmarked fund managers who supply their risky holdings for lending, the equilibrium price and lending supply are both higher for the benchmark asset. Larger supply alleviates short-selling constraints while higher shorting demand (due to inflated price) exacerbates them. Two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, confirm that stocks with more institutional capital benchmarked against them have larger lending supply and demand. Ultimately, they are costlier to short. In both theory and data, results are driven by incomplete pass-through from institutional holdings to lending supply.
 
-<sub>*Presentations at: ASSA Meetings 2024, Dauphine Finance PhD Workshop, Finance Seminar at London Business School, HEC PhD Workshop on Incentives in Finance, Junior Academic Research Seminar in Finance, Microstructure Exchange 2023, NFA 2023, SAFE Market Microstructure Conference, TADC 2023, USC Marshall PhD Conference in Finance.* </sub>. 
+<sub>*Presentations at: ASSA Meetings 2024, Dauphine Finance PhD Workshop, Finance Seminar at London Business School, HEC PhD Workshop on Incentives in Finance, Junior Academic Research Seminar in Finance, Microstructure Exchange 2023, NFA 2023, SAFE Market Microstructure Conference, TADC 2023, USC Marshall PhD Conference in Finance.* </sub> 
 
 
-<sub>*Received: <a href="https://www.eeassoc.org/news/econ-jm-best-paper-award" style="color: black; text-decoration: underline;">European Economic Association Econ Job Market Best Paper Award (2023)</a>, AQR Asset Management Institute research grant (2022).* </sub>.
+<sub>*Received: <a href="https://www.eeassoc.org/news/econ-jm-best-paper-award" style="color: black; text-decoration: underline;">European Economic Association Econ Job Market Best Paper Award (2023)</a>, AQR Asset Management Institute research grant (2022).* </sub>
 
 ## Published Papers
 
