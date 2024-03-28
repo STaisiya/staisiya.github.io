@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Finance at London Business School. My research explores the impact of institutional investors on asset prices, retail trading in options, and limits to arbitrage. I have published in the Journal of Finance and the Review of Financial Studies, and my work has been cited in international media, including Bloomberg and The Economist. Prior to starting my PhD at London Business School, I worked in asset management in Switzerland and the UK.
+I am a PhD Candidate in Finance at London Business School and will join the University of Chicago Booth School of Business as an Assistant Professor of Finance in July 2024. My research explores the impact of institutional investors on asset prices, retail trading in options, and limits to arbitrage. I have published in the Journal of Finance and the Review of Financial Studies, and my work has been cited in international media, including Bloomberg and The Economist. Prior to starting my PhD at London Business School, I worked in asset management in Switzerland and the UK.
 
 Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail Trading.
 
-**I am on the 2023/2024 academic job market.**
-
-<a href="http://staisiya.github.io/files/Sikorskaya_CV_Long_nov23.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
+<a href="http://staisiya.github.io/files/Sikorskaya_CV_Long_feb24.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
 
 
 <br>
