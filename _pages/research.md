@@ -5,17 +5,6 @@ title: "Research"
 author_profile: true
 ---
 
-## Job Market Paper
-
-**<a href="http://staisiya.github.io/files/Sikorskaya_JMP_2023.pdf" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
-
-Institutional ownership is thought to facilitate short-selling, as short sellers typically borrow from the holdings of institutions. Yet, institutional demand, and hence lending supply, is endogenous. This paper isolates changes in this demand due to investment mandates (benchmark indexes) to shed new light on the role of institutions in lending markets. In a model with benchmarked fund managers who supply their risky holdings for lending, the equilibrium price and lending supply are both higher for the benchmark asset. Larger supply alleviates short-selling constraints while higher shorting demand (due to inflated price) exacerbates them. Two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, confirm that stocks with more institutional capital benchmarked against them have larger lending supply and demand. Ultimately, they are costlier to short. In both theory and data, results are driven by incomplete pass-through from institutional holdings to lending supply.
-
-<sub>*Presentations at: ASSA Meetings 2024, Dauphine Finance PhD Workshop, Finance Seminar at London Business School, HEC PhD Workshop on Incentives in Finance, Junior Academic Research Seminar in Finance, Microstructure Exchange 2023, NFA 2023, SAFE Market Microstructure Conference, TADC 2023, USC Marshall PhD Conference in Finance.* </sub>
-
-
-<sub>*Received: <a href="https://www.eeassoc.org/news/econ-jm-best-paper-award" style="color: black; text-decoration: underline;">European Economic Association Econ Job Market Best Paper Award (2023)</a>, AQR Asset Management Institute research grant (2022).* </sub>
-
 ## Published Papers
 
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
@@ -39,12 +28,23 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 ## Working Papers
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
+**<a href="http://staisiya.github.io/files/Sikorskaya_JMP_2023.pdf" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
+
+Institutional ownership is thought to facilitate short-selling, as short sellers typically borrow from the holdings of institutions. Yet, institutional demand, and hence lending supply, is endogenous. This paper isolates changes in this demand due to investment mandates (benchmark indexes) to shed new light on the role of institutions in lending markets. In a model with benchmarked fund managers who supply their risky holdings for lending, the equilibrium price and lending supply are both higher for the benchmark asset. Larger supply alleviates short-selling constraints while higher shorting demand (due to inflated price) exacerbates them. Two quasi-natural experiments, the Russell index reconstitution and the Bank of Japan purchases, confirm that stocks with more institutional capital benchmarked against them have larger lending supply and demand. Ultimately, they are costlier to short. In both theory and data, results are driven by incomplete pass-through from institutional holdings to lending supply.
+
+<sub>*Presentations at: Adam Smith Workshop 2024, ASSA Meetings 2024, Bank of Canada, Columbia Business School, Cornell University, Dauphine Finance PhD Workshop, Duke's Fuqua School of Business, Finance Seminar at London Business School, FIRS 2024, Harvard Business School, HEC Paris, HEC PhD Workshop on Incentives in Finance, Junior Academic Research Seminar in Finance, London School of Economics, Microstructure Exchange 2023, NFA 2023, NYU Stern School of Business, SAFE Market Microstructure Conference, Stanford Graduate School of Business, TADC 2023, University of Chicago Booth School of Business, USC Marshall PhD Conference in Finance, USC Marshall School of Business, UT Austin McCombs School of Business, Wharton School of the University of Pennsylvania, World Symposium on Investment Research 2024, Yale School of Management.* </sub>  
+
+<sub>*Received: <a href="https://www.eeassoc.org/news/econ-jm-best-paper-award" style="color: black; text-decoration: underline;">European Economic Association Econ Job Market Best Paper Award (2023)</a>, <a href="https://www.hec.edu/en/faculty-research/events/top-finance-graduate-award-hec-paris-0" style="color: black; text-decoration: underline;">Top Finance Graduate Award at HEC Paris (2024)</a>, AQR Asset Management Institute research grant (2022).* </sub>
+
+<br>
+
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2024.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
 
 We propose a model in which arbitrageurs act strategically in markets with entry costs. In a repeated game, arbitrageurs choose to specialize in some markets, which leads to the highest combined profits. We present  evidence consistent with our theory from the options market, in which suboptimally unexercised options create arbitrage opportunities for intermediaries. Using transaction-level data, we identify the corresponding arbitrage trades. Consistent with the model, only 57% of these opportunities attract entry by arbitrageurs.  Of those that do, 50% attract only one arbitrageur. Finally, our paper details how market participants circumvent a regulation devised to curtail this arbitrage strategy.
 
-<sub>*Presentations at: AFA 2024, Bayes Business School, Finance Seminar at London Business School, Indiana University, NBER Asset Pricing Fall Meeting 2023, Stockholm Business School, Women in Microstructure Meeting 2023.* </sub>
+<sub>*Presentations at: AFA 2024, 2024 BI-SHoF conference, 2023 Colorado Finance Summit, HEC Paris, HKU, HKUST, Indiana University, London Business School, NBER Asset Pricing Fall Meeting 2023, New York Fed, NTU, NUS, SMU, Stockholm Business School, Temple University, UC Irvine, UCLA, the University of Central Florida, UT Austin, and the 2023 Women in Microstructure meeting.* </sub>
 
+<sub>*Media coverage:* <a href="https://www.risk.net/investing/7959192/the-signs-of-tacit-collusion-in-the-dividend-play-trade" style="color: black; text-decoration: underline;">Risk.net</a>. </sub>
 
 <sub>*Received: Colorado Finance Summit Best Paper Award (2023).* </sub>
 

@@ -1,25 +1,18 @@
 ---
 permalink: /
 title: ""
-excerpt: "PhD Candidate at London Business School"
+excerpt: "Assistant Professor of Finance at the University of Chicago Booth School of Business"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a PhD Candidate in Finance at London Business School and will join the University of Chicago Booth School of Business as an Assistant Professor of Finance in July 2024. My research explores the impact of institutional investors on asset prices, retail trading in options, and limits to arbitrage. I have published in the Journal of Finance and the Review of Financial Studies, and my work has been cited in international media, including Bloomberg and The Economist. Prior to starting my PhD at London Business School, I worked in asset management in Switzerland and the UK.
+I am an Assistant Professor of Finance at the University of Chicago Booth School of Business. My research explores the impact of institutional investors on asset prices, retail trading in options, and limits to arbitrage. I have published in the Journal of Finance and the Review of Financial Studies, and my work has been cited in international media, including Bloomberg and The Economist. Prior to starting at Booth, I received my PhD from London Business School and worked in asset management in Switzerland and the UK.
 
 Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail Trading.
 
-<a href="http://staisiya.github.io/files/Sikorskaya_CV_Long_feb24.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
-
-
-<br>
-
-## Job Market Paper
-
-**<a href="http://staisiya.github.io/files/Sikorskaya_JMP_2023.pdf" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
+<a href="http://staisiya.github.io/files/Sikorskaya_CV_Long_jul24.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
 
 <br>
 ## Published Papers
@@ -32,6 +25,8 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 
 ## Working Papers
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023b.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
+**<a href="http://staisiya.github.io/files/Sikorskaya_JMP_2023.pdf" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
+
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2024.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
 
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).

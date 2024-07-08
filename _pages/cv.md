@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/Sikorskaya_CV_Long_feb24.pdf" width="100%"  style="position: absolute; height: 100%; border: none"></iframe>
+<iframe src="/files/Sikorskaya_CV_Long_jul24.pdf" width="100%"  style="position: absolute; height: 100%; border: none"></iframe>
 <!--height="1000"
 Download the most recent version of my CV [here](http://staisiya.github.io/files/Academic_CV_Short.pdf). -->
 
