@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-US"
 title                    : "Taisiya Sikorskaya"
 title_separator          : "-"
 name                     : &name "Taisiya Sikorskaya"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Taisiya Sikorskaya"
   avatar           : profile.png
-  bio              : "PhD Candidate in Finance at London Business School"
-  location         : "London, UK"
+  bio              : "Assistant Professor of Finance at the University of Chicago Booth School of Business"
+  location         : "Chicago, IL, United States"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "tsikorskaya@london.edu"
+  email            : "taisiya.sikorskaya@chicagobooth.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
