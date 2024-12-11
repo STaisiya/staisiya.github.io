@@ -27,6 +27,6 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 
 **<a href="http://staisiya.github.io/files/Sikorskaya_2024.pdf" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2024.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Revise & Resubmit in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2024.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Conditionally accepted in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
 
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).
