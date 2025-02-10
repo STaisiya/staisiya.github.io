@@ -7,6 +7,18 @@ author_profile: true
 
 ## Published Papers
 
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Forthcoming in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
+
+We propose a model in which arbitrageurs act strategically in markets with entry costs. In a repeated game, arbitrageurs choose to specialize in some markets, which leads to the highest combined profits. We present evidence consistent with our theory from the options market, in which suboptimally unexercised options create arbitrage opportunities for intermediaries. Using transaction-level data, we identify the corresponding arbitrage trades. Consistent with the model, only 57% of these opportunities attract entry by arbitrageurs.  Of those that do, 49% attract only one arbitrageur. Finally, our paper details how market participants circumvent a regulation devised to curtail this arbitrage strategy. 
+
+<sub>*Presentations at: AFA 2024, 2024 BI-SHoF conference, 2023 Colorado Finance Summit, EFA 2024, HEC Paris, HKU, HKUST, Indiana University, London Business School, NBER Asset Pricing Fall Meeting 2023, New York Fed, NTU, NUS, NYU, SMU, Stockholm Business School, Temple University, UC Irvine, UCLA, the University of Central Florida, UT Austin, and the 2023 Women in Microstructure meeting.* </sub>
+
+<sub>*Media coverage:* <a href="https://www.risk.net/investing/7959192/the-signs-of-tacit-collusion-in-the-dividend-play-trade" style="color: black; text-decoration: underline;">Risk.net</a>. </sub>
+
+<sub>*Received: Colorado Finance Summit Best Paper Award (2023).* </sub>
+
+<br>
+
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). <br>
 *<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13285"  style="color: black; text-decoration: underline;">The Journal of Finance, 78(6), 2023, pp. 3465-3514.</a>*
 
@@ -38,18 +50,6 @@ Institutions facilitate short-selling by lending from their holdings, but what t
 
 <br>
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2024.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Conditionally accepted in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
-
-We propose a model in which arbitrageurs act strategically in markets with entry costs. In a repeated game, arbitrageurs choose to specialize in some markets, which leads to the highest combined profits. We present evidence consistent with our theory from the options market, in which suboptimally unexercised options create arbitrage opportunities for intermediaries. Using transaction-level data, we identify the corresponding arbitrage trades. Consistent with the model, only 57% of these opportunities attract entry by arbitrageurs.  Of those that do, 49% attract only one arbitrageur. Finally, our paper details how market participants circumvent a regulation devised to curtail this arbitrage strategy. 
-
-<sub>*Presentations at: AFA 2024, 2024 BI-SHoF conference, 2023 Colorado Finance Summit, EFA 2024, HEC Paris, HKU, HKUST, Indiana University, London Business School, NBER Asset Pricing Fall Meeting 2023, New York Fed, NTU, NUS, NYU, SMU, Stockholm Business School, Temple University, UC Irvine, UCLA, the University of Central Florida, UT Austin, and the 2023 Women in Microstructure meeting.* </sub>
-
-<sub>*Media coverage:* <a href="https://www.risk.net/investing/7959192/the-signs-of-tacit-collusion-in-the-dividend-play-trade" style="color: black; text-decoration: underline;">Risk.net</a>. </sub>
-
-<sub>*Received: Colorado Finance Summit Best Paper Award (2023).* </sub>
-
-<br>
-
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).
 
 Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations between a fund's price and its fair value. ETFs have designated brokers, or authorized participants (APs), who have a unique right to create and redeem ETF shares, and who can thus trade on ETF mispricing without risk. Using novel regulatory filings, we provide the first description of the US ETF-AP network. It has a dense core and a sparse periphery, and the observed creation/redemption volumes are highly concentrated. The level of mispricing in a US equity ETF is negatively related to the fund's primary market diversity, especially during times of high market volatility. Funds that share more APs exhibit stronger mispricing comovement. We theoretically show that diverse primary markets help mitigate the effect of shocks to AP-specific arbitrage costs. We highlight the importance of AP balance sheet usage costs in ETF markets by exploiting the Federal Reserve's purchases of bond ETFs in 2020.
@@ -58,7 +58,3 @@ Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations betwee
 
 <sub>*Media coverage:* <a href="https://www.bloomberg.com/news/articles/2023-12-15/bofa-goldman-sachs-jpmorgan-are-keeping-8-trillion-etf-market-humming?srnd=markets-vp" style="color: black; text-decoration: underline;">Bloomberg</a>. </sub>
 
-
-## Work in Progress
-
-**Heterogeneous Inflation Expectations and Market Dynamics** (with G. Pinter).
