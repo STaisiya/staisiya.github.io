@@ -44,7 +44,7 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 We use detailed data on fixed income benchmark indexes in Canada and the United States to demonstrate the importance of benchmarks for corporate bond fund ownership and bond prices. Funds hold sparse portfolios, and bond benchmark weights strongly predict active and passive fund ownership. To rationalize these findings, we build a model featuring benchmarked managers who face portfolio management costs. The model indicates which assets the managers should include in their portfolios. It also predicts that a bond’s price increases with its sparse benchmarking intensity (BMI)—calculated as the bond’s cumulative weight in all benchmarks, weighted by assets following each benchmark and adjusted for sparsity. Exploiting discontinuities in benchmarked assets around bond maturity cutoffs, we provide empirical evidence consistent with the model’s predictions: increases in bonds’ sparse BMIs lead to reductions in bond yields and increases in fund ownership.
 
-<sub>*Presentations at: 6th MBS – Southampton – Surrey Virtual Research Seminar, Bocconi University, DAM Working Group, and WAPFIN at NYU Stern* </sub>  
+<sub>*Presentations at: 6th MBS – Southampton – Surrey Virtual Research Seminar, Bocconi University, DAM Working Group, and WAPFIN at NYU Stern.* </sub>  
 
 <br>
 

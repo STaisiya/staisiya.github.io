@@ -27,7 +27,7 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 
 ## Working Papers
 
-**<a style="color: black; text-decoration: underline;">Sparse Portfolios and Benchmarking in Corporate Bond Markets</a>**
+**<a style="color: black; text-decoration: underline;">Sparse Portfolios and Benchmarking in Corporate Bond Markets</a>** (with Z. Li and A. Pavlova).
 
 **<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints</a>**
 
