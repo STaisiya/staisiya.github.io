@@ -27,6 +27,8 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 
 ## Working Papers
 
-**<a href="http://staisiya.github.io/files/Sikorskaya_2024.pdf" style="color: black; text-decoration: underline;">Institutional Investors, Securities Lending, and Short-Selling Constraints</a>**
+**<a style="color: black; text-decoration: underline;">Sparse Portfolios and Benchmarking in Corporate Bond Markets</a>**
+
+**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints</a>**
 
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).
