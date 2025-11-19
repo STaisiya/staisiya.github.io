@@ -66,3 +66,7 @@ Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations betwee
 
 <sub>*Media coverage:* <a href="https://www.bloomberg.com/news/articles/2023-12-15/bofa-goldman-sachs-jpmorgan-are-keeping-8-trillion-etf-market-humming?srnd=markets-vp" style="color: black; text-decoration: underline;">Bloomberg</a>. </sub>
 
+## Work in progress
+
+**<a style="color: black; text-decoration: underline;">The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits </a>** (with L. Pastor and J. Wang).
+
