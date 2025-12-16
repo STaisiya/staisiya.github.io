@@ -12,7 +12,7 @@ I am an Assistant Professor of Finance at the University of Chicago Booth School
 
 Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail Trading.
 
-<a href="http://staisiya.github.io/files/Sikorskaya_CV_feb25.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
+<a href="http://staisiya.github.io/files/Sikorskaya_CV_dec25.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
 
 <br>
 ## Published Papers
@@ -27,7 +27,7 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 
 ## Working Papers
 
-**<a style="color: black; text-decoration: underline;">The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits </a>** (with L. Pastor and J. Wang).
+**<a href="http://staisiya.github.io/files/Pastor_Sikorskaya_Wang_2025.pdf"  style="color: black; text-decoration: underline;">The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits </a>** (with L. Pastor and J. Wang).
 
 **<a style="color: black; text-decoration: underline;">Sparse Portfolios and Benchmarking in Corporate Bond Markets</a>** (with Z. Li and A. Pavlova).
 

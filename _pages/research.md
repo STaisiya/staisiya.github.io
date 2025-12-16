@@ -40,11 +40,19 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 ## Working Papers
 
+
+**<a href="http://staisiya.github.io/files/Pastor_Sikorskaya_Wang_2025.pdf"  style="color: black; text-decoration: underline;">The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits </a>** (with L. Pastor and J. Wang).
+
+We examine whether rising stock market concentration affects investment fund behavior and asset prices. Regulatory limits on portfolio concentration have become increasingly binding for U.S. funds, especially large-cap growth funds. As they approach or breach these limits, funds trim their largest holdings and reduce overall equity exposure. Funds tend to perform worse when constrained. A constraint-based ownership measure helps predict individual stock returns, particularly among the largest firms. An investment strategy exploiting this predictability earns abnormal returns. These findings suggest that high stock market concentration can distort stock prices by limiting the ability of optimistic investors to scale their positions.
+
+
+<br>
+
 **<a style="color: black; text-decoration: underline;">Sparse Portfolios and Benchmarking in Corporate Bond Markets</a>**  (with Z. Li and A. Pavlova).
 
-We use detailed data on fixed income benchmark indexes in Canada and the United States to demonstrate the importance of benchmarks for corporate bond fund ownership and bond prices. Funds hold sparse portfolios, and bond benchmark weights strongly predict active and passive fund ownership. To rationalize these findings, we build a model featuring benchmarked managers who face portfolio management costs. The model indicates which assets the managers should include in their portfolios. It also predicts that a bond’s price increases with its sparse benchmarking intensity (BMI)—calculated as the bond’s cumulative weight in all benchmarks, weighted by assets following each benchmark and adjusted for sparsity. Exploiting discontinuities in benchmarked assets around bond maturity cutoffs, we provide empirical evidence consistent with the model’s predictions: increases in bonds’ sparse BMIs lead to reductions in bond yields and increases in fund ownership.
+We use detailed data on fixed income benchmark indexes in Canada and the United States to demonstrate the importance of benchmarks for corporate bond fund ownership and bond prices. Funds hold sparse portfolios, and index weights strongly predict active and passive fund ownership. We rationalize these patterns in a model with benchmarked managers who face portfolio management costs, which characterizes the assets managers optimally include in their portfolios. In the model, a bond's price increases with its sparse benchmarking intensity (BMI)--which captures its cumulative weight in all benchmarks and portfolio sparsity. Exploiting within-bond changes in sparse BMI driven by reallocations of benchmarked capital, we find that an increase in sparse BMI lowers bond yields and increases fund ownership.
 
-<sub>*Presentations at: 6th MBS – Southampton – Surrey Virtual Research Seminar, Bocconi University, DAM Working Group, and WAPFIN at NYU Stern.* </sub>  
+<sub>*Presentations at: 6th MBS – Southampton – Surrey Virtual Research Seminar, Bocconi University, DAM Working Group, Georgia State University, Johns Hopkins University, Michigan State University, Warwick Business School, Università della Svizzera italiana, and WAPFIN at NYU Stern.* </sub>  
 
 <br>
 
@@ -66,7 +74,5 @@ Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations betwee
 
 <sub>*Media coverage:* <a href="https://www.bloomberg.com/news/articles/2023-12-15/bofa-goldman-sachs-jpmorgan-are-keeping-8-trillion-etf-market-humming?srnd=markets-vp" style="color: black; text-decoration: underline;">Bloomberg</a>. </sub>
 
-## Work in progress
 
-**<a style="color: black; text-decoration: underline;">The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits </a>** (with L. Pastor and J. Wang).
 
