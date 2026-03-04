@@ -29,7 +29,7 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 
 **<a href="http://staisiya.github.io/files/Pastor_Sikorskaya_Wang_2025.pdf"  style="color: black; text-decoration: underline;">The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits </a>** (with L. Pastor and J. Wang).
 
-**<a style="color: black; text-decoration: underline;">Sparse Portfolios and Benchmarking in Corporate Bond Markets</a>** (with Z. Li and A. Pavlova).
+**<a href="http://staisiya.github.io/files/Li_Pavlova_Sikorskaya_2026.pdf" style="color: black; text-decoration: underline;">Sparse Portfolios and Benchmarking in Corporate Bond Markets</a>** (with Z. Li and A. Pavlova).
 
 **<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints</a>**
 
