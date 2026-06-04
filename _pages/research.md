@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published Papers
 
-**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints.</a>** Accepted in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*.
+**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints.</a>**  <br> Accepted in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*.
 
 Institutions facilitate short-selling by lending from their holdings, but what they hold is endogenous. This paper examines how institutional demand, driven by investment mandates (benchmarking), affects short-selling. In a model where benchmarked managers lend from their holdings, both lending supply and equilibrium price are higher for the benchmark asset, and so is shorting demand (due to inflated price). A quasi-experiment using Russell index reconstitution shows that stocks with more benchmarked capital have greater lending supply and demand. Ultimately, such stocks are costlier to short. In theory and data, results are driven by incomplete pass-through from benchmarked capital to lending supply.
 
@@ -17,7 +17,7 @@ Institutions facilitate short-selling by lending from their holdings, but what t
 
 <br>
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). *<a href=https://www.sciencedirect.com/science/article/pii/S0304405X25000169 style="color: black; text-decoration: underline;">The Journal of Financial Economics, 166, 2025.</a>* A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). *<a href="https://www.sciencedirect.com/science/article/pii/S0304405X25000169" style="color: black; text-decoration: underline;">The Journal of Financial Economics, 166, 2025.</a>* A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
 
 We propose a model in which arbitrageurs act strategically in markets with entry costs. In a repeated game, arbitrageurs choose to specialize in some markets, which leads to the highest combined profits. We present evidence consistent with our theory from the options market, in which suboptimally unexercised options create arbitrage opportunities for intermediaries. Using transaction-level data, we identify the corresponding arbitrage trades. Consistent with the model, only 57% of these opportunities attract entry by arbitrageurs.  Of those that do, 49% attract only one arbitrageur. Finally, our paper details how market participants circumvent a regulation devised to curtail this arbitrage strategy. 
 
