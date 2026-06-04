@@ -12,12 +12,14 @@ I am an Assistant Professor of Finance at the University of Chicago Booth School
 
 Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail Trading.
 
-<a href="http://staisiya.github.io/files/Sikorskaya_CV_mar26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
+<a href="http://staisiya.github.io/files/Sikorskaya_CV_jun26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
 
 <br>
 ## Published Papers
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Forthcoming in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
+**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints.</a>** Accepted in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*.
+
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). *<a href=https://www.sciencedirect.com/science/article/pii/S0304405X25000169 style="color: black; text-decoration: underline;">The Journal of Financial Economics, 166, 2025.</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
 
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2023.pdf" style="color: black; text-decoration: underline;">Retail Trading in Options and the Rise of the Big Three Wholesalers</a>** (with S. Bryzgalova and A. Pavlova). *<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jofi.13285"  style="color: black; text-decoration: underline;">The Journal of Finance, 78(6), 2023, pp. 3465-3514.</a>*
 
@@ -30,7 +32,5 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 **<a href="http://staisiya.github.io/files/Pastor_Sikorskaya_Wang_2025.pdf"  style="color: black; text-decoration: underline;">The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits </a>** (with L. Pastor and J. Wang).
 
 **<a href="http://staisiya.github.io/files/Li_Pavlova_Sikorskaya_2026.pdf" style="color: black; text-decoration: underline;">Sparse Portfolios and Benchmarking in Corporate Bond Markets</a>** (with Z. Li and A. Pavlova).
-
-**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints</a>**
 
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).

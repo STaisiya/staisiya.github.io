@@ -7,7 +7,17 @@ author_profile: true
 
 ## Published Papers
 
-**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). Forthcoming in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
+**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints.</a>** Accepted in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*.
+
+Institutions facilitate short-selling by lending from their holdings, but what they hold is endogenous. This paper examines how institutional demand, driven by investment mandates (benchmarking), affects short-selling. In a model where benchmarked managers lend from their holdings, both lending supply and equilibrium price are higher for the benchmark asset, and so is shorting demand (due to inflated price). A quasi-experiment using Russell index reconstitution shows that stocks with more benchmarked capital have greater lending supply and demand. Ultimately, such stocks are costlier to short. In theory and data, results are driven by incomplete pass-through from benchmarked capital to lending supply.
+
+<sub>*Presentations at: Adam Smith Workshop 2024, ASSA Meetings 2024, Bank of Canada, Carnegie Mellon University, Columbia Business School, Cornell University, Dauphine Finance PhD Workshop, Duke's Fuqua School of Business, Finance Seminar at London Business School, FIRS 2024, Harvard Business School, HEC Paris, HEC PhD Workshop on Incentives in Finance, Junior Academic Research Seminar in Finance, Junior Conference at UW-Madison, London School of Economics, Microstructure Exchange 2023, NFA 2023, NYU Stern School of Business, Purdue University, SAFE Market Microstructure Conference, Stanford Graduate School of Business, TADC 2023, University of Chicago Booth School of Business, USC Marshall PhD Conference in Finance, USC Marshall School of Business, UT Austin McCombs School of Business, Wharton School of the University of Pennsylvania, World Symposium on Investment Research 2024, Yale School of Management.* </sub>  
+
+<sub>*Received:  <a href="https://www.unsw.edu.au/business/our-schools/banking-finance/seminars-workshops/australasian-finance-banking-conference" style="color: black; text-decoration: underline;">BlackRock Research Award at the Australasian Finance and Banking Conference (2025)</a>, <a href="https://www.eeassoc.org/news/econ-jm-best-paper-award" style="color: black; text-decoration: underline;">European Economic Association Econ Job Market Best Paper Award (2023)</a>, <a href="https://www.hec.edu/en/faculty-research/events/top-finance-graduate-award-hec-paris-0" style="color: black; text-decoration: underline;">Top Finance Graduate Award at HEC Paris (2024)</a>, AQR Asset Management Institute research grant (2022).* </sub>
+
+<br>
+
+**<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). *<a href=https://www.sciencedirect.com/science/article/pii/S0304405X25000169 style="color: black; text-decoration: underline;">The Journal of Financial Economics, 166, 2025.</a>* A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
 
 We propose a model in which arbitrageurs act strategically in markets with entry costs. In a repeated game, arbitrageurs choose to specialize in some markets, which leads to the highest combined profits. We present evidence consistent with our theory from the options market, in which suboptimally unexercised options create arbitrage opportunities for intermediaries. Using transaction-level data, we identify the corresponding arbitrage trades. Consistent with the model, only 57% of these opportunities attract entry by arbitrageurs.  Of those that do, 49% attract only one arbitrageur. Finally, our paper details how market participants circumvent a regulation devised to curtail this arbitrage strategy. 
 
@@ -38,12 +48,17 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 <sub>*Presentations at: Adam Smith Workshop, AFA 2022, ASSA Meetings, EFA 2021, European Winter Finance Conference, Finance Seminar at London Business School, INSEAD Finance Symposium, the Desautels Faculty of Management at McGill University, Midwest Finance Association, NBER Behavioral Finance, Q Group Spring Seminar 2023, SFS Cavalcade North America, University of Bath, Vanguard seminar, Vienna Graduate School of Finance, and World Symposium on Investment Research.* </sub>
 
+
 ## Working Papers
 
 
 **<a href="http://staisiya.github.io/files/Pastor_Sikorskaya_Wang_2025.pdf"  style="color: black; text-decoration: underline;">The Hidden Cost of Stock Market Concentration: When Funds Hit Regulatory Limits </a>** (with L. Pastor and J. Wang).
 
 As stock market concentration has risen, regulatory limits on fund portfolio concentration have become increasingly binding, especially for large-cap growth funds. When funds approach these limits, they trim their largest holdings and reduce equity exposure.  Funds perform worse when constrained.  A constraint-based ownership measure predicts stock returns, particularly among the largest firms. These findings suggest that high market concentration can distort stock prices by limiting the ability of optimistic investors to scale their positions. Just like short-sale constraints can produce overpricing by limiting pessimistic investors' views, constraints on long positions can generate underpricing by suppressing optimists' views.
+
+<sub>*Presentations at: 2026 FIRS, 2026 SFS Cavalcade North America, 2026 Derivatives and Asset Pricing Conference, 2026 Oxford-Man Institute Microstructure and Financial Economics workshop, Demand in Asset Markets working group, and University of Chicago.* </sub>  
+
+<sub>*Media coverage:* <a href="https://news.bloomberglaw.com/mergers-and-acquisitions/matt-levines-money-stuff-buy-bitcoin-at-night" style="color: black; text-decoration: underline;">Money Stuff by Matt Levine</a>. </sub>
 
 
 <br>
@@ -52,19 +67,10 @@ As stock market concentration has risen, regulatory limits on fund portfolio con
 
 We use detailed data on fixed-income benchmark indexes in Canada and the United States to provide systematic evidence of how benchmarking shapes corporate bond ownership and prices. Funds hold sparse portfolios, and index weights strongly influence which bonds active and passive funds select. We rationalize these patterns in a model with benchmarked managers who face portfolio management costs, which predicts which assets managers optimally include in their portfolios. In the model, a bond's price increases with its benchmarking intensity (BMI)—a measure of the amount of fund capital benchmarked against the bond—while portfolio sparsity attenuates this price impact for excluded bonds. Exploiting discontinuities in benchmarked assets around bond maturity cutoffs, we show that increases in bonds’ BMIs lead to reductions in yield spreads and increases in fund ownership—but only for bonds predicted to enter sparse portfolios.
 
-<sub>*Presentations at: 6th MBS – Southampton – Surrey Virtual Research Seminar, Bocconi University, DAM Working Group, Georgia State University, Johns Hopkins University, Michigan State University, Warwick Business School, Università della Svizzera italiana, and WAPFIN at NYU Stern.* </sub>  
+<sub>*Presentations at: 2025 WAPFIN at NYU Stern, 2026 Duke-UNC Asset Pricing Conference, 2026 SFS Cavalcade North America, 2026 UC Davis–FMA Napa Finance Conference, 2026 World Symposium on Investment Research, 6th MBS – Southampton – Surrey Virtual Research Seminar, Bocconi University, Cambridge University, City University of Hong Kong, DAM Working Group, Georgia State University, HKU, HKUST, Johns Hopkins University, Michigan State University, Vanderbilt University, Warwick Business School, and Università della Svizzera italiana.* </sub>  
 
 <br>
 
-**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints</a>**
-
-Institutions facilitate short-selling by lending from their holdings, but what they hold is endogenous. This paper examines how institutional demand, driven by investment mandates (benchmarking), affects short-selling. In a model where benchmarked managers lend from their holdings, both lending supply and equilibrium price are higher for the benchmark asset, and so is shorting demand (due to inflated price). A quasi-experiment using Russell index reconstitution shows that stocks with more benchmarked capital have greater lending supply and demand. Ultimately, such stocks are costlier to short. In theory and data, results are driven by incomplete pass-through from benchmarked capital to lending supply.
-
-<sub>*Presentations at: Adam Smith Workshop 2024, ASSA Meetings 2024, Bank of Canada, Carnegie Mellon University, Columbia Business School, Cornell University, Dauphine Finance PhD Workshop, Duke's Fuqua School of Business, Finance Seminar at London Business School, FIRS 2024, Harvard Business School, HEC Paris, HEC PhD Workshop on Incentives in Finance, Junior Academic Research Seminar in Finance, Junior Conference at UW-Madison, London School of Economics, Microstructure Exchange 2023, NFA 2023, NYU Stern School of Business, Purdue University, SAFE Market Microstructure Conference, Stanford Graduate School of Business, TADC 2023, University of Chicago Booth School of Business, USC Marshall PhD Conference in Finance, USC Marshall School of Business, UT Austin McCombs School of Business, Wharton School of the University of Pennsylvania, World Symposium on Investment Research 2024, Yale School of Management.* </sub>  
-
-<sub>*Received:  <a href="https://www.unsw.edu.au/business/our-schools/banking-finance/seminars-workshops/australasian-finance-banking-conference" style="color: black; text-decoration: underline;">BlackRock Research Award at the Australasian Finance and Banking Conference (2025)</a>, <a href="https://www.eeassoc.org/news/econ-jm-best-paper-award" style="color: black; text-decoration: underline;">European Economic Association Econ Job Market Best Paper Award (2023)</a>, <a href="https://www.hec.edu/en/faculty-research/events/top-finance-graduate-award-hec-paris-0" style="color: black; text-decoration: underline;">Top Finance Graduate Award at HEC Paris (2024)</a>, AQR Asset Management Institute research grant (2022).* </sub>
-
-<br>
 
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).
 
