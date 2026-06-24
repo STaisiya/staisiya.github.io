@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Finance at the University of Chicago Booth School of Business. My research explores the impact of institutional investors on asset prices, retail trading in options, and limits to arbitrage. I have published in the Journal of Finance, Journal of Financial Economics, Review of Financial Studies, and my work has been cited in international media, including Bloomberg and The Economist. Prior to starting at Booth, I received my PhD from London Business School and worked in asset management in Switzerland and the UK.
+Taisiya Sikorskaya is an Assistant Professor of Finance at the University of Chicago Booth School of Business. Her research examines how institutional investors affect asset prices, retail participation in options markets, and limits to arbitrage. Her work has been published in the Journal of Finance, Journal of Financial Economics, and Review of Financial Studies, and has been cited in international media outlets including Bloomberg and The Economist. Her research has received several awards and distinctions, including the 2025 Fama-DFA Prize for the best paper in the Journal of Financial Economics, the 2024 Top Finance Graduate Award, and the AQR Asset Management Institute Fellowship Award. Before joining Chicago Booth, she earned her PhD in Finance from London Business School and worked in asset management in Switzerland and the UK.
 
 Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail Trading.
 
-<a href="http://staisiya.github.io/files/Sikorskaya_CV_jun26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
+<a href="http://staisiya.github.io/files/Sikorskaya_CV_jul26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
 
 <br>
 ## Published Papers

@@ -21,11 +21,11 @@ Institutions facilitate short-selling by lending from their holdings, but what t
 
 We propose a model in which arbitrageurs act strategically in markets with entry costs. In a repeated game, arbitrageurs choose to specialize in some markets, which leads to the highest combined profits. We present evidence consistent with our theory from the options market, in which suboptimally unexercised options create arbitrage opportunities for intermediaries. Using transaction-level data, we identify the corresponding arbitrage trades. Consistent with the model, only 57% of these opportunities attract entry by arbitrageurs.  Of those that do, 49% attract only one arbitrageur. Finally, our paper details how market participants circumvent a regulation devised to curtail this arbitrage strategy. 
 
-<sub>*Presentations at: AFA 2024, 2024 BI-SHoF conference, 2023 Colorado Finance Summit, EFA 2024, HEC Paris, HKU, HKUST, Indiana University, London Business School, NBER Asset Pricing Fall Meeting 2023, New York Fed, NTU, NUS, NYU, SMU, Stockholm Business School, Temple University, UC Irvine, UCLA, the University of Central Florida, UT Austin, and the 2023 Women in Microstructure meeting.* </sub>
+<sub>*Presentations at: AFA 2024, 2024 BI-SHoF conference, Colorado Finance Summit 2023, EFA 2024, HEC Paris, HKU, HKUST, Indiana University, London Business School, NBER Asset Pricing Fall Meeting 2023, New York Fed, NTU, NUS, NYU, SMU, Stockholm Business School, Temple University, UC Irvine, UCLA, the University of Central Florida, UT Austin, and the 2023 Women in Microstructure meeting.* </sub>
 
 <sub>*Media coverage:* <a href="https://www.risk.net/investing/7959192/the-signs-of-tacit-collusion-in-the-dividend-play-trade" style="color: black; text-decoration: underline;">Risk.net</a>. </sub>
 
-<sub>*Received: Colorado Finance Summit Best Paper Award (2023).* </sub>
+<sub>*Received: Fama-DFA Prize for the best paper in the \textit{Journal of Financial Economics} (First Place in Capital Markets and Asset Pricing), Colorado Finance Summit Best Paper Award (2023).* </sub>
 
 <br>
 
@@ -56,7 +56,7 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 As stock market concentration has risen, regulatory limits on fund portfolio concentration have become increasingly binding, especially for large-cap growth funds. When funds approach these limits, they trim their largest holdings and reduce equity exposure.  Funds perform worse when constrained.  A constraint-based ownership measure predicts stock returns, particularly among the largest firms. These findings suggest that high market concentration can distort stock prices by limiting the ability of optimistic investors to scale their positions. Just like short-sale constraints can produce overpricing by limiting pessimistic investors' views, constraints on long positions can generate underpricing by suppressing optimists' views.
 
-<sub>*Presentations at: 2026 FIRS, 2026 SFS Cavalcade North America, 2026 Derivatives and Asset Pricing Conference, 2026 Oxford-Man Institute Microstructure and Financial Economics workshop, Demand in Asset Markets working group, and University of Chicago.* </sub>  
+<sub>*Presentations at: AFA 2027, Derivatives and Asset Pricing Conference 2026, EFA 2026, FIRS 2026, NFA 2026, Oxford-Man Institute Microstructure and Financial Economics workshop 2026, SFS Cavalcade North America 2026, WFA 2026, Demand in Asset Markets working group, and University of Chicago.* </sub>  
 
 <sub>*Media coverage:* <a href="https://news.bloomberglaw.com/mergers-and-acquisitions/matt-levines-money-stuff-buy-bitcoin-at-night" style="color: black; text-decoration: underline;">Money Stuff by Matt Levine</a>. </sub>
 
@@ -67,7 +67,7 @@ As stock market concentration has risen, regulatory limits on fund portfolio con
 
 We use detailed data on fixed-income benchmark indexes in Canada and the U.S. to provide systematic evidence of how benchmarking shapes corporate bond ownership and prices. Funds hold sparse portfolios, and index weights strongly influence which bonds active and passive funds select. We rationalize these patterns in a model with benchmarked managers who face portfolio management costs, which predicts which assets managers optimally include in their portfolios. In the model, a bond's price increases with its benchmarking intensity (BMI)—a measure of the amount of fund capital benchmarked against the bond—while portfolio sparsity attenuates this price impact for excluded bonds. Exploiting discontinuities in benchmarked assets around bond maturity cutoffs, we show that increases in bonds’ BMIs lead to reductions in yield spreads and increases in fund ownership—but only for bonds predicted to enter sparse portfolios.
 
-<sub>*Presentations at: 2025 WAPFIN at NYU Stern, 2026 Duke-UNC Asset Pricing Conference, 2026 SFS Cavalcade North America, 2026 UC Davis–FMA Napa Finance Conference, 2026 World Symposium on Investment Research, 6th MBS – Southampton – Surrey Virtual Research Seminar, Bocconi University, Cambridge University, City University of Hong Kong, DAM Working Group, Georgia State University, HKU, HKUST, Johns Hopkins University, Michigan State University, Vanderbilt University, Warwick Business School, and Università della Svizzera italiana.* </sub>  
+<sub>*Presentations at: AFA 2027, Bocconi University, Cambridge University, City University of Hong Kong, DAM Working Group, Duke-UNC Asset Pricing Conference 2026, Georgia State University, HKU, HKUST, Johns Hopkins University, 6th MBS – Southampton – Surrey Virtual Research Seminar, Michigan State University, SFS Cavalcade North America 2026, UC Davis–FMA Napa Finance Conference 2026, Vanderbilt University, WAPFIN at NYU Stern 2025, Warwick Business School, World Symposium on Investment Research 2026, and Università della Svizzera italiana.* </sub>  
 
 <br>
 
