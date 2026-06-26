@@ -25,7 +25,7 @@ We propose a model in which arbitrageurs act strategically in markets with entry
 
 <sub>*Media coverage:* <a href="https://www.risk.net/investing/7959192/the-signs-of-tacit-collusion-in-the-dividend-play-trade" style="color: black; text-decoration: underline;">Risk.net</a>. </sub>
 
-<sub>*Received: Fama-DFA Prize for the best paper in the \textit{Journal of Financial Economics} (First Place in Capital Markets and Asset Pricing), Colorado Finance Summit Best Paper Award (2023).* </sub>
+<sub>*Received: <a href="https://www.jfinec.com/fama-dfa-prize" style="color: black; text-decoration: underline;">Fama-DFA Prize for the best paper in the Journal of Financial Economics (First Place in Capital Markets and Asset Pricing)</a>, <a href="https://sites.google.com/site/coloradofinancesummit/conference-awards" style="color: black; text-decoration: underline;">Colorado Finance Summit Best Paper Award (2023)</a>.* </sub> 
 
 <br>
 
