@@ -58,7 +58,7 @@ As stock market concentration has risen, regulatory limits on fund portfolio con
 
 <sub>*Presentations at: AFA 2027, Derivatives and Asset Pricing Conference 2026, EFA 2026, FIRS 2026, NFA 2026, Oxford-Man Institute Microstructure and Financial Economics workshop 2026, SFS Cavalcade North America 2026, WFA 2026, Demand in Asset Markets working group, and University of Chicago.* </sub>  
 
-<sub>*Media coverage:* <a href="https://news.bloomberglaw.com/mergers-and-acquisitions/matt-levines-money-stuff-buy-bitcoin-at-night" style="color: black; text-decoration: underline;">Money Stuff by Matt Levine</a>. </sub>
+<sub>*Media coverage:* <a href="https://news.bloomberglaw.com/mergers-and-acquisitions/matt-levines-money-stuff-buy-bitcoin-at-night" style="color: black; text-decoration: underline;">Money Stuff by Matt Levine</a>, <a href="https://www.nber.org/digest/202607/regulatory-limits-concentration-mutual-fund-portfolios?page=1&perPage=50" style="color: black; text-decoration: underline;">NBER Digest</a> . </sub>
 
 
 <br>
