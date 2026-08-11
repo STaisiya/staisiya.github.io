@@ -7,7 +7,7 @@ author_profile: true
 
 ## Published Papers
 
-**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints.</a>**  <br> Accepted in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*.
+**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints.</a>**  <br> <a href="https://www.sciencedirect.com/science/article/pii/S0304405X26001200" style="color: black; text-decoration: underline;">The Journal of Financial Economics, 184, 2026</a>*.
 
 Institutions facilitate short-selling by lending from their holdings, but what they hold is endogenous. This paper examines how institutional demand, driven by investment mandates (benchmarking), affects short-selling. In a model where benchmarked managers lend from their holdings, both lending supply and equilibrium price are higher for the benchmark asset, and so is shorting demand (due to inflated price). A quasi-experiment using Russell index reconstitution shows that stocks with more benchmarked capital have greater lending supply and demand. Ultimately, such stocks are costlier to short. In theory and data, results are driven by incomplete pass-through from benchmarked capital to lending supply.
 

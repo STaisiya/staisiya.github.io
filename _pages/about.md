@@ -12,12 +12,12 @@ Taisiya Sikorskaya is an Assistant Professor of Finance and a Fama Faculty Fello
 
 Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail Trading.
 
-<a href="http://staisiya.github.io/files/Sikorskaya_CV_jul26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
+<a href="http://staisiya.github.io/files/Sikorskaya_CV_aug26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
 
 <br>
 ## Published Papers
 
-**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints.</a>** Accepted in *<a style="color: black; text-decoration: underline;">The Journal of Financial Economics</a>*.
+**<a href="http://staisiya.github.io/files/Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Institutional Investor Mandates, Securities Lending, and Short-Selling Constraints.</a>** *<a href="https://www.sciencedirect.com/science/article/pii/S0304405X26001200" style="color: black; text-decoration: underline;">The Journal of Financial Economics, 184, 2026</a>*.
 
 **<a href="http://staisiya.github.io/files/Bryzgalova_Pavlova_Sikorskaya_2025.pdf" style="color: black; text-decoration: underline;">Strategic Arbitrage in Segmented Markets</a>** (with S. Bryzgalova and A. Pavlova). *<a href="https://www.sciencedirect.com/science/article/pii/S0304405X25000169" style="color: black; text-decoration: underline;">The Journal of Financial Economics, 166, 2025</a>*. A part of this paper was previously circulated under the title "Profiting from Investor Mistakes: Evidence from Suboptimal Option Exercise."
 
