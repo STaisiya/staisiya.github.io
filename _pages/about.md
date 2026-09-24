@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Taisiya Sikorskaya is an Assistant Professor of Finance and a Fama Faculty Fellow at the University of Chicago Booth School of Business. She studies asset pricing and asset management. Her research examines how institutional investors affect asset prices, retail participation in options markets, and limits to arbitrage. Her work has been published in the Journal of Finance, Journal of Financial Economics, and Review of Financial Studies, and has been cited in international media outlets including Bloomberg and The Economist. Her research has received several awards and distinctions, including the 2025 Fama-DFA Prize for the best paper in the Journal of Financial Economics, the 2024 Top Finance Graduate Award, and the AQR Asset Management Institute Fellowship Award. Before joining Chicago Booth, she earned her PhD in Finance from London Business School and worked in asset management in Switzerland and the UK.
+Taisiya Sikorskaya is an Assistant Professor of Finance and a Fama Faculty Fellow at the University of Chicago Booth School of Business. Her research focuses on asset pricing and asset management, examining how financial institutions affect asset prices, retail trading, and limits to arbitrage. Taisiya’s work has been published in the Journal of Finance, Journal of Financial Economics, and Review of Financial Studies. Her research has received several awards, including the 2025 Fama-DFA Prize for the best paper in the Journal of Financial Economics, the 2024 Top Finance Graduate Award, and the AQR Asset Management Institute Fellowship Award. Her work has also been featured in international media outlets including Bloomberg and The Economist. Before joining Chicago Booth, she earned her PhD in Finance from London Business School and worked in asset management in Switzerland and the UK. 
 
 Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail Trading.
 
-<a href="http://staisiya.github.io/files/Sikorskaya_CV_aug26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
+<a href="http://staisiya.github.io/files/Sikorskaya_CV_sep26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
 
 <br>
 ## Published Papers
@@ -34,3 +34,5 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 **<a href="http://staisiya.github.io/files/Li_Pavlova_Sikorskaya_2026.pdf" style="color: black; text-decoration: underline;">Sparse Portfolios and Benchmarking in Corporate Bond Markets</a>** (with Z. Li and A. Pavlova).
 
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).
+
+**<a style="color: black; text-decoration: underline;">The Arithmetic of Retail Investor Losses</a>** (with D. Muravyev).

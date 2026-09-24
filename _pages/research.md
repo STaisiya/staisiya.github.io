@@ -81,5 +81,8 @@ Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations betwee
 
 <sub>*Media coverage:* <a href="https://www.bloomberg.com/news/articles/2023-12-15/bofa-goldman-sachs-jpmorgan-are-keeping-8-trillion-etf-market-humming?srnd=markets-vp" style="color: black; text-decoration: underline;">Bloomberg</a>. </sub>
 
+<br>
+
+**<a style="color: black; text-decoration: underline;">The Arithmetic of Retail Investor Losses</a>** (with D. Muravyev).
 
 
