@@ -12,7 +12,7 @@ Taisiya Sikorskaya is an Assistant Professor of Finance and a Fama Faculty Fello
 
 Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail Trading.
 
-<a href="http://staisiya.github.io/files/Sikorskaya_CV_sep26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
+<a href="http://staisiya.github.io/files/Sikorskaya_CV_oct26.pdf" style="color: black; text-decoration: underline;">Curriculum Vitae</a>
 
 <br>
 ## Published Papers
@@ -35,4 +35,4 @@ Research interests: Asset Pricing, Asset Management, Limits to Arbitrage, Retail
 
 **<a href="http://staisiya.github.io/files/Gorbatikov_and_Sikorskaya_2022.pdf" style="color: black; text-decoration: underline;">Two APs Are Better Than One: ETF Mispricing and Primary Market Participation</a>** (with E. Gorbatikov).
 
-**<a style="color: black; text-decoration: underline;">The Arithmetic of Retail Investor Losses</a>** (with D. Muravyev).
+**<a style="color: black; text-decoration: underline;">The Arithmetic of Modern Retail Investor Losses</a>** (with D. Muravyev).

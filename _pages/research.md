@@ -58,7 +58,8 @@ Benchmarking incentivizes fund managers to invest a fraction of their funds’ a
 
 As stock market concentration has risen, regulatory limits on fund portfolio concentration have become increasingly binding, especially for large-cap growth funds. When funds approach these limits, they trim their largest holdings and reduce equity exposure.  Funds perform worse when constrained.  A constraint-based ownership measure predicts stock returns, particularly among the largest firms. These findings suggest that high market concentration can distort stock prices by limiting the ability of optimistic investors to scale their positions. Just like short-sale constraints can produce overpricing by limiting pessimistic investors' views, constraints on long positions can generate underpricing by suppressing optimists' views.
 
-<sub>*Presentations at: AFA 2027, Derivatives and Asset Pricing Conference 2026, EFA 2026, FIRS 2026, NFA 2026, Oxford-Man Institute Microstructure and Financial Economics workshop 2026, SFS Cavalcade North America 2026, WFA 2026, Demand in Asset Markets working group, and University of Chicago.* </sub>  
+<sub>*Presentations at: AFA 2027, Boston College Carroll School of Management, CFR Cologne
+Research Seminar, Dartmouth Tuck School of Business, Demand in Asset Markets working group, Derivatives and Asset Pricing Conference 2026, EFA 2026, FIRS 2026, MIT GCFP Conference, NBER Asset Pricing Fall Meeting 2026, NFA 2026, Oxford-Man Institute Microstructure and Financial Economics workshop 2026, SFS Cavalcade North America 2026, Trivariate Quant Expert Webinar, University of Chicago, University of Utah David Eccles School of Business, Vanguard seminar, and WFA 2026.* </sub>  
 
 <sub>*Media coverage:* <a href="https://www.chicagobooth.edu/review/hidden-cost-magnificent-seven" style="color: black; text-decoration: underline;">Chicago Booth Review</a>, <a href="https://corpgov.law.harvard.edu/2026/07/07/the-hidden-cost-of-stock-market-concentration-when-funds-hit-regulatory-limits/" style="color: black; text-decoration: underline;">Harvard Law School Forum</a>, <a href="https://news.bloomberglaw.com/mergers-and-acquisitions/matt-levines-money-stuff-buy-bitcoin-at-night" style="color: black; text-decoration: underline;">Money Stuff by Matt Levine</a>, <a href="https://www.nber.org/digest/202607/regulatory-limits-concentration-mutual-fund-portfolios?page=1&perPage=50" style="color: black; text-decoration: underline;">NBER Digest</a>. </sub>
 
@@ -68,7 +69,7 @@ As stock market concentration has risen, regulatory limits on fund portfolio con
 
 We use Canadian and U.S. benchmark-index data to show how benchmarking shapes corporate bond fund ownership and prices. Fund portfolios are sparse, and index weights strongly predict which bonds active and passive funds select. We develop a model of benchmarked managers facing portfolio management costs, which generates sparsity. It implies that higher benchmarking intensity (BMI)—the capital benchmarked against a bond—raises bond prices, but less so for excluded bonds. Exploiting BMI discontinuities at maturity cutoffs, we find that increases in BMI indeed lower yield spreads and raise fund ownership, primarily for bonds predicted to be included by fund managers.
 
-<sub>*Presentations at: AFA 2027, Bocconi University, Cambridge University, CAMR Conference at Bayes Business School 2025, City University of Hong Kong, DAM Working Group, Duke-UNC Asset Pricing Conference 2026, EFA 2026, Georgia State University, HKU, HKUST, Johns Hopkins University, 6th MBS – Southampton – Surrey Virtual Research Seminar, Michigan State University, SFS Cavalcade North America 2026, UC Davis–FMA Napa Finance Conference 2026, Vanderbilt University, WAPFIN at NYU Stern 2025, Warwick Business School, World Symposium on Investment Research 2026, and Università della Svizzera italiana.* </sub>  
+<sub>*Presentations at: AFA 2027, Bocconi University, Cambridge University, CAMR Conference at Bayes Business School 2025, City University of Hong Kong, Demand in Asset Markets working group, Duke-UNC Asset Pricing Conference 2026, EFA 2026, Georgia State University, HKU, HKUST, Johns Hopkins University, 6th MBS – Southampton – Surrey Virtual Research Seminar, Michigan State University, MIT Sloan School of Management, SFS Cavalcade North America 2026, UC Davis–FMA Napa Finance Conference 2026, Vanderbilt University, WAPFIN at NYU Stern 2025, Warwick Business School, World Symposium on Investment Research 2026, and Università della Svizzera italiana.* </sub>  
 
 <br>
 
@@ -83,6 +84,6 @@ Exchange-traded funds (ETFs) depend on arbitrageurs to correct deviations betwee
 
 <br>
 
-**<a style="color: black; text-decoration: underline;">The Arithmetic of Retail Investor Losses</a>** (with D. Muravyev).
+**<a style="color: black; text-decoration: underline;">The Arithmetic of Modern Retail Investor Losses</a>** (with D. Muravyev).
 
 
